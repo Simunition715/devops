@@ -1,0 +1,23 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "devops",
+  "main": "./scripts/create-component.ts",
+  "scripts": {
+    "create-component": "ts-node scripts/create-component.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "ts-node": "^10.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simunition715/devops.git"
+  },
+  "author": "simunition715",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Simunition715/devops/issues"
+  },
+  "homepage": "https://github.com/Simunition715/devops#readme"
+}
