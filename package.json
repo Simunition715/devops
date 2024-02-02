@@ -4,7 +4,7 @@
   "description": "devops",
   "main": "./scripts/create-component.ts",
   "scripts": {
-    "create-component": "ts-node scripts/create-component.ts"
+    "create-component": "ts-node ./scripts/create-component.ts"
   },
   "devDependencies": {
     "typescript": "^4.5.4",
