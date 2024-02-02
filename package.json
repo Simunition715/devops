@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "devops",
   "main": "./scripts/create-component.ts",
+  "bin": {
+    "create-component": "./scripts/create-component.ts"
+  },
   "scripts": {
-    "create-component": "ts-node ./scripts/create-component.ts"
+    "create-component": "./scripts/create-component.ts"
   },
   "devDependencies": {
     "typescript": "^4.5.4",
